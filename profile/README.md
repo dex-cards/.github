@@ -2,6 +2,8 @@
 
 dex
 
+Master new vocabulary with interactive flashcards. Swipe right when you know it, left when you don't.
+
 <!--
 
 **Here are some ideas to get you started:**
